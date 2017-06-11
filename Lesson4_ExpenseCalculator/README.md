@@ -4,20 +4,21 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(June 9th, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Brandon Tirado)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment was to introduce the javascript language. This assignment broke 
+down the basic concepts and we were able to apply those to this expense calculator assignment.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+( https://brandontirado.github.io/lesson4_javascript1/ )
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Javascript is a client side scripting language that is embeded into html files to give websites more functionality.)
+2. (To declare a variable in javascript you use "var theVariable;" and to initalize it you use "var theVariable = 1500;" )
+3. (Java and Javascript are completly different. Java is a programing language that must be complied and can run as independent
+    programs, where javascript is a low level program that is run or interpreted by the browser. )
 
